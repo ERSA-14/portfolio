@@ -1,2 +1,1 @@
-# portfolio
-just developing it
+A beginner in tech .
